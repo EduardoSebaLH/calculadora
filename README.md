@@ -16,5 +16,5 @@ Una calculadora web con diseño elegante, animaciones suaves y tema oscuro. Desa
 
 > ¡Explora la calculadora en acción!
 
-🔗 [Ver demo en GitHub Pages](https://eduardolizana.github.io/calculadora-modern/)
+🔗 [Ver demo en GitHub Pages](https://eduardosebalh.github.io/calculadora/)
 
